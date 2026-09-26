@@ -22,7 +22,7 @@
 
 I'm a passionate **AI/ML student** diving deep into the world of intelligent systems, emerging tech, and creative problem-solving. Day one of the journey — and I'm already certified, building, and shipping.
 
-- 🎓 **1st Year B.Tech CSE (AI/ML)** — on a mission to master artificial intelligence
+- 🎓 **2nd Year B.Tech CSE (AI/ML)** — on a mission to master artificial intelligence
 - 🏆 **Certified** by Google, IBM & Anthropic — because learning never stops
 - 🎥 **Content Creator** — sharing knowledge on **YouTube**, writing on **Medium**, posting on **Instagram**
 - 🤖 Obsessed with how machines **learn, think, and evolve**
